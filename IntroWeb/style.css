@@ -1,3 +1,4 @@
+
 body{
     background: #dcb9a0
 }
@@ -10,5 +11,30 @@ h1{
     font-size: 100%;
     font-family:Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    
+    background-color: #b74c00;
+    color: rgb(255, 255, 255);
+    padding: 15px 25px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 3px solid white;
+}
+a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+img{
+    width: 400px;
+
+}
+h3{
+    text-decoration: overline;
+    font-size: 150%;
+}
+footer{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    margin-top: auto;
+   
+   
 }
