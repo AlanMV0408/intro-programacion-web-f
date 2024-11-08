@@ -18,11 +18,7 @@ h1{
     border-radius: 5px;
     border: 3px solid white;
 }
-a{
-    display: flex;
-    justify-content: center;
-    text-decoration: none;
-}
+
 img{
     width: 400px;
 
